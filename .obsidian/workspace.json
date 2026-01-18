@@ -20,8 +20,38 @@
               "icon": "lucide-file",
               "title": "Поздеев"
             }
+          },
+          {
+            "id": "fb41fb6d9044d634",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.11.4"
+            }
+          },
+          {
+            "id": "e245624d9aa00140",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Base/ИИ контекст для выражений.canvas",
+                "viewState": {
+                  "x": 540,
+                  "y": -440,
+                  "zoom": -1.5615861626317855
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ИИ контекст для выражений"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +71,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -53,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "позд",
+                "query": "weba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +104,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,8 +187,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -178,49 +207,52 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "98d2ca67947d4c35",
+  "active": "cbbe62794e657183",
   "lastOpenFiles": [
-    "Прохождение курса.md",
-    "Поздеев.md",
-    "Ретро.md",
-    "Вотинцев.md",
-    "Идеи.md",
-    "Вопросы для собеседования аналитиков.md",
-    "Вопросы аналитику.md",
-    "Камышев люди.md",
+    "Base/Почитать.md",
+    "Base/Работа с фичами по техкому.md",
+    "Base/Добро пожаловать.md",
+    "Base/Процесс работы тех. кома.canvas",
+    "Templates/Основной шаблон заметок.md",
+    "Base/Ретро.md",
+    "File/Pasted image 20251221172814.png",
+    "File/Pasted image 20251223172540.png",
+    "File/Pasted image 20251221181615.png",
+    "Base/MVP PM Book.pdf",
+    "File/Pasted image 20251223172542.png",
+    "File/Pasted image 20251228182243.png",
+    "Daily/Без названия.md",
+    "Base/Docsvision_opisanie.pdf",
+    "Base/ИИ контекст для выражений.canvas",
+    "Base/Сотрудники.md",
+    "Base/Цели и задачи техкома (2).canvas",
+    "Base/Цели и задачи техкома (1).canvas",
+    "Base/Цели и задачи техкома.canvas",
+    "Base/Техком.md",
+    "Base/Камышев производство.md",
+    "Base/Камышев люди.md",
+    "Base/Идеи.md",
+    "Base/Вотинцев.md",
+    "Base/Видение по платформе.md",
+    "Base/Вопросы для собеседования аналитиков.md",
+    "Base/Вопросы аналитику.md",
+    "Base/Поздеев.md",
+    "Daily/Прохождение курса.md",
+    "Base/Люди с хорошим практическим опытом для сбора фидбека по демо.md",
+    "Base/Без названия.md",
     "Без названия.md",
+    "Без названия 1.md",
     "Без названия.base",
-    "Видение по платформе.md",
-    "Конкуренты.md",
-    "Техком.md",
-    "Добро пожаловать.md",
-    "Камышев производство.md",
-    "context window limit bypass.canvas",
-    "Pasted image 20251228182243.png",
-    "Pasted image 20251223172542.png",
-    "Pasted image 20251223172540.png",
-    "Почитать.md",
-    "MVP PM Book.pdf",
-    "Pasted image 20251221181615.png",
-    "Pasted image 20251221172814.png",
-    "Цели и задачи техкома (2).canvas",
+    "Base/Конкуренты.md",
     "dependency_hierarchy 1.txt",
     "dependency_hierarchy.txt",
-    "Люди с хорошим практическим опытом для сбора фидбека по демо.md",
-    "Цели и задачи техкома (1).canvas",
-    "Цели и задачи техкома.canvas",
-    "Процесс работы тех. кома.canvas",
-    "Работа с фичами по техкому.md",
     "Еще одна база.base",
     "Новая база.base",
     "аывава.md",
-    "Сотрудники.md",
     "WebAccessAgent.exe",
-    "Добро пожаловать.txt",
-    "Docsvision_opisanie.pdf"
+    "Добро пожаловать.txt"
   ]
 }
