@@ -4,54 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6d06abc80eb70b3d",
+        "id": "2c0acdb70c38dfe7",
         "type": "tabs",
         "children": [
           {
-            "id": "98d2ca67947d4c35",
+            "id": "8c27f7eb60fe3174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Поздеев.md",
+                "file": "Base/Заказы техники.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Поздеев"
-            }
-          },
-          {
-            "id": "fb41fb6d9044d634",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.4"
-            }
-          },
-          {
-            "id": "e245624d9aa00140",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Base/ИИ контекст для выражений.canvas",
-                "viewState": {
-                  "x": 540,
-                  "y": -440,
-                  "zoom": -1.5615861626317855
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "ИИ контекст для выражений"
+              "title": "Заказы техники"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "weba",
+                "query": "тех",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +74,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Base/Заказы техники.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Заказы техники"
             }
           },
           {
@@ -143,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Base/ИИ в агенте.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Добро пожаловать"
+              "title": "Исходящие ссылки из ИИ в агенте"
             }
           },
           {
@@ -172,31 +143,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "аывава.md",
+                "file": "Base/Требования для выражений ИИ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура аывава"
-            }
-          },
-          {
-            "id": "dabc5e0d8dab288b",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
+              "title": "Структура Требования для выражений ИИ"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 387.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,48 +170,57 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cbbe62794e657183",
+  "active": "8c27f7eb60fe3174",
   "lastOpenFiles": [
-    "Base/Почитать.md",
-    "Base/Работа с фичами по техкому.md",
-    "Base/Добро пожаловать.md",
-    "Base/Процесс работы тех. кома.canvas",
-    "Templates/Основной шаблон заметок.md",
-    "Base/Ретро.md",
-    "File/Pasted image 20251221172814.png",
-    "File/Pasted image 20251223172540.png",
-    "File/Pasted image 20251221181615.png",
-    "Base/MVP PM Book.pdf",
-    "File/Pasted image 20251223172542.png",
-    "File/Pasted image 20251228182243.png",
-    "Daily/Без названия.md",
-    "Base/Docsvision_opisanie.pdf",
-    "Base/ИИ контекст для выражений.canvas",
+    "Files/Pasted image 20260617164101.png",
+    "Files/Pasted image 20260617142618.png",
+    "Files/Pasted image 20260617094502.png",
+    "Base/Требования для выражений ИИ.md",
+    "Base/Вопросы для собеседования аналитиков.md",
+    "Base/Искусственный интеллект.md",
+    "Daily/Вопросы по архитектуре и ноукоду.md",
+    "Base/Колесников.md",
+    "Daily/Прохождение курса.md",
+    "Daily/entities.md",
+    "Base/Вопросы аналитику.md",
+    "Files/Pasted image 20260609165253.png",
+    "Files/Pasted image 20260609165215.png",
+    "Base/custdev.md",
+    "Base/Архитекторы.md",
+    "Daily/2026-04-10.md",
+    "Base/Вопросы agile-коучу.md",
+    "Daily/Кандидат.md",
+    "Base/Чигирева А. Аттестация на 3 категорию.md",
     "Base/Сотрудники.md",
+    "Base/Ai dev conf.md",
+    "Base/Опрос 360 для PPO.md",
+    "Files/Pasted image 20260524163558.png",
+    "Daily/Применение ИИ.md",
+    "Base/Евтушенко.md",
+    "Base/Кандидаты.md",
+    "Base/Обработка запросов на повышение ЗП.md",
+    "Base/Шаблон для встречи в календаре.md",
+    "Base/Опросы 360.md",
+    "Base/Ретро.md",
+    "Base/Заказы техники.md",
+    "Files/Pasted image 20260424174842.png",
+    "Files/Pasted image 20260424102552.png",
+    "Files/Pasted image 20260424102416.png",
+    "Files/Pasted image 20260413165328.png",
+    "Base/ИИ контекст для выражений.canvas",
+    "Files/Pasted image 20260324164006.png",
+    "Files",
+    "Base/Процесс работы тех. кома.canvas",
+    "Base/MVP PM Book.pdf",
+    "Base/Docsvision_opisanie.pdf",
     "Base/Цели и задачи техкома (2).canvas",
     "Base/Цели и задачи техкома (1).canvas",
     "Base/Цели и задачи техкома.canvas",
-    "Base/Техком.md",
-    "Base/Камышев производство.md",
-    "Base/Камышев люди.md",
-    "Base/Идеи.md",
-    "Base/Вотинцев.md",
-    "Base/Видение по платформе.md",
-    "Base/Вопросы для собеседования аналитиков.md",
-    "Base/Вопросы аналитику.md",
-    "Base/Поздеев.md",
-    "Daily/Прохождение курса.md",
-    "Base/Люди с хорошим практическим опытом для сбора фидбека по демо.md",
-    "Base/Без названия.md",
-    "Без названия.md",
-    "Без названия 1.md",
     "Без названия.base",
-    "Base/Конкуренты.md",
     "dependency_hierarchy 1.txt",
     "dependency_hierarchy.txt",
     "Еще одна база.base",
     "Новая база.base",
-    "аывава.md",
     "WebAccessAgent.exe",
     "Добро пожаловать.txt"
   ]
